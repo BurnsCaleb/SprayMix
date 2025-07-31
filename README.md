@@ -3,6 +3,8 @@
 
  Built for farmers, this app makes it easy to mix and manage chemical applications with confidence and precision. Whether you're working with a single chemical or a complex tank mix, SprayMix helps you plan, calculate, and track every spray job.
 
+ [View in the App Store](https://apps.apple.com/us/app/spraymix/id6744618752)
+
 
 ## Key Features:
 
