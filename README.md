@@ -5,6 +5,18 @@
 
  [View in the App Store](https://apps.apple.com/us/app/spraymix/id6744618752)
 
+## App Screenshot
+
+<p align="center">
+  <img src="assets/BuiltForFarmers.png" alt="Home Screen" width="200"/>
+  <img src="assets/CustomFormulas.png" alt="Custom Formulas" width="200"/>
+  <img src="assets/CustomFields.png" alt="Custom Fields" width="200"/>
+</p>
+<p align="center">
+  <img src="assets/ChooseFormulaField.png" alt="Use Formulas and Fields" width="200"/>
+  <img src="assets/AcresTankVolume.png" alt="Use Formulas and Acres" width="200"/>
+  <img src="assets/AllInformationYouNeed.png" alt="Tank Mixture" width="200"/>
+</p>
 
 ## Key Features:
 
